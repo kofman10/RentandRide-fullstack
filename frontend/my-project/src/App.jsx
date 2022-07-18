@@ -1,10 +1,11 @@
+import LandingPage from "./components/LandingPage"
 
 function App() {
 
   return (
-    <div className="">
-      <p> teakdjf </p>
-    </div>
+    <>
+    <LandingPage />
+    </>
   )
 }
 
